@@ -1,4 +1,3 @@
-# verisol
-A formal verifier and analysis engine for Solidity Smart Contracts
+We have moved the project [here](https://github.com/Microsoft/verisol).
 
-Watch out this space for the source code!
+This repo will be archived and deleted soon. 
